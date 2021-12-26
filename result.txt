@@ -1,0 +1,10 @@
+drwxr-xr-x  1 root   root     60 дек 26 16:30 ..
+drwxr-xr-x 14 ubuntu ubuntu  360 дек 26 18:34 .config
+drwxr-xr-x  2 ubuntu ubuntu   60 дек 26 18:34 Desktop
+drwxr-xr-x  2 ubuntu ubuntu   40 дек 26 17:03 Видео
+drwxr-xr-x  2 ubuntu ubuntu   40 дек 26 17:03 Документы
+drwxr-xr-x  2 ubuntu ubuntu   40 дек 26 17:03 Загрузки
+drwxr-xr-x  2 ubuntu ubuntu   40 дек 26 17:03 Изображения
+drwxr-xr-x  2 ubuntu ubuntu   40 дек 26 17:03 Музыка
+drwxr-xr-x  2 ubuntu ubuntu   40 дек 26 17:03 Общедоступные
+drwxr-xr-x  2 ubuntu ubuntu   40 дек 26 17:03 Шаблоны
